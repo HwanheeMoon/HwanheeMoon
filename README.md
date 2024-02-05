@@ -36,7 +36,7 @@
     <div>
         <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio-%235C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white&color=%235C2D91">
         <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white&color=%23007ACC">
-        <img alt="Static Badge" src="https://img.shields.io/badge/intellijidea-%23000000?style=for-the-badge&logo=intellij%20idea&logoColor=white&color=000000">
+        <img alt="Static Badge" src="https://img.shields.io/badge/intellij%20idea-%23000000?style=for-the-badge&logo=intellijidea&logoColor=white&color=000000">
         <img alt="Static Badge" src="https://img.shields.io/badge/pycharm-%23000000?style=for-the-badge&logo=pycharm&logoColor=white&color=000000">
         <img alt="Static Badge" src="https://img.shields.io/badge/eclipse%20ide-%23%232C2255?style=for-the-badge&logo=eclipseide&logoColor=white&color=%232C2255">
     </div>
