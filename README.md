@@ -2,4 +2,4 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-[![HwanheeMoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwanheeMoon)](https://github.com/anuraghazra/github-readme-stats)
+[![HwanheeMoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwanheeMoon&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
