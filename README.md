@@ -4,7 +4,7 @@
 
 [![HwanheeMoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwanheeMoon&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🔨 Once I've used 🔨
+## 🔨 Technology Stacks 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
@@ -32,7 +32,7 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white&color=%23EE4C2C">
         <img alt="Static Badge" src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white&color=%23FF6F00">
     <!-- Tools -->
-    <p><strong>Server</strong></p>
+    <p><strong>Tools</strong></p>
     <div>
         <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio-%235C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white&color=%235C2D91">
         <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white&color=%23007ACC">
