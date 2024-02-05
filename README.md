@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6BE1E5&text=welcome+to+Hwanhee's+GitHub!👋&fontColor=gradient&fontSize=50&font=)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6BE1E5&text=welcome+to+Hwanhee's+GitHub!👋&fontColor=E2FEFF&fontSize=50&font=)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
