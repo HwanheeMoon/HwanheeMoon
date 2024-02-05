@@ -3,5 +3,5 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 [![HwanheeMoon's GitHub stats](https://github-readme-stats.vercel.app/api?
-username=bi-sz&include_all_commits=true&show_icons=true&theme=cobalt)]
+username=HwanheeMoon&include_all_commits=true&show_icons=true&theme=cobalt)]
 (https://github.com/HwanheeMoon/github-readme-stats)
