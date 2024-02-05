@@ -9,36 +9,36 @@
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
+        <img alt="Static Badge" src="https://img.shields.io/badge/Spring%20Boot-6DB33F%20?style=for-the-badge&logo=Spring%20Boot&logoColor=white&color=%236DB33F">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white&color=092E20">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Flask-%23000000?style=for-the-badge&logo=Flask&logoColor=white&color=%23000000">
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-        <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white&color=%234479A1">
+        <img alt="Static Badge" src="https://img.shields.io/badge/microsoftsqlserver-%23CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&color=%23CC2927">
     </div>
     <!-- Server -->
     <p><strong>Server</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-         <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
+        <img alt="Static Badge" src="https://img.shields.io/badge/Linux-%23%23FCC624?style=for-the-badge&logo=Linux&logoColor=white&color=%23%23FCC624">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-%23%23%23E95420?style=for-the-badge&logo=Ubuntu&logoColor=white&color=%23E95420">
+        <img alt="Static Badge" src="https://img.shields.io/badge/CentOS-%23262577?style=for-the-badge&logo=CentOS&logoColor=white&color=%23262577">
     </div>
-    <!-- Frontend -->
-    <p><strong>Frontend</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-        <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-        <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-    </div>
-    <!-- Others -->
+    <!-- Deep Learning -->
     <p><strong>Others</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-        <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
-                <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+        <img alt="Static Badge" src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white&color=%23EE4C2C">
+        <img alt="Static Badge" src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white&color=%23FF6F00">
+    <!-- Tools -->
+    <p><strong>Server</strong></p>
+    <div>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio-%235C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white&color=%235C2D91">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white&color=%23007ACC">
+        <img alt="Static Badge" src="https://img.shields.io/badge/intellijidea-%23000000?style=for-the-badge&logo=intellijidea&logoColor=white&color=000000">
+        <img alt="Static Badge" src="https://img.shields.io/badge/pycharm-%23000000?style=for-the-badge&logo=pycharm&logoColor=white&color=000000">
+        <img alt="Static Badge" src="https://img.shields.io/badge/eclipse%20ide-%23%232C2255?style=for-the-badge&logo=eclipseide&logoColor=white&color=%232C2255">
+    </div>
 </div><br>
 </div>
